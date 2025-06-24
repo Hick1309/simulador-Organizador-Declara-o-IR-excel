@@ -21,11 +21,11 @@ Este projeto foi desenvolvido como parte do desafio prático do bootcamp da DIO.
 ## 🧾 Estrutura do Projeto
 
 📁 BootCamp-OrganizadordeDeclaraçãodeImpostodeRenda/
-├── BootCamp-OrganizadordeDeclaraçãodeImpostodeRenda.xlsx
-├── README.md
-└── images/
-├── home.png
-└── cadastro_exemplo.png
+- BootCamp-OrganizadordeDeclaraçãodeImpostodeRenda.xlsx
+- README.md
+- images/
+- home.png
+- cadastro_exemplo.png
 
 ## 🚀 Como Usar
 
